@@ -85,8 +85,6 @@ export OPENAI_API_KEY="your-openai-api-key-here"
 $env:OPENAI_API_KEY="your-openai-api-key-here"
 ```
 
-Keep your API key private and do not commit it to the repository.
-
 ## Run the Application
 
 Run the agent against the sample customer tickets and print the terminal reports:
